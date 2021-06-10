@@ -5,4 +5,4 @@ Login &amp; Register system written in Python
 This tool only requires having Python3 Installed. https://www.python.org
 
 # Execute
-python loginregister.py or just execute the file (may not work)
+python loginregister.py |  or just execute the file (may not work)
