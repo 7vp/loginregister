@@ -1,8 +1,7 @@
 # LoginRegister
-Login &amp; Register system written in Python
+Login &amp; Register simple system written in Python
 
-# Require
-This tool only requires having Python3 Installed. 
+
 
 
 
