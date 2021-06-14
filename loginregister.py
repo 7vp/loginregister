@@ -34,7 +34,5 @@ while status != "q":
     
 #end
 
-
-#Made by Staind
-#Made by Staind
-https://github.com/7vp
+#Made by Kickeado
+#www.github.com/kickeadoh
