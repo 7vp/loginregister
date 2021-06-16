@@ -34,5 +34,5 @@ while status != "q":
     
 #end
 
-#Made by Kickeado
-#www.github.com/kickeadoh
+#Made by Vicen
+#www.github.com/Vicensk
