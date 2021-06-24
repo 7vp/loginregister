@@ -34,5 +34,4 @@ while status != "q":
     
 #end
 
-#Made by Vicen
-#www.github.com/Vicensk
+@idiol
